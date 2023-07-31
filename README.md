@@ -6,7 +6,7 @@ This is a Membrane program that updates the version in a Cargo.toml file in a Gi
 
 Paste the following URL in your browser to open the directory inside the Membrane VSCode Extension.
 
-vscode://membrane.membrane/directory/update-cargo-version
+vscode://membrane.membrane/directory/example-update-cargo-version
 
 Run `:configure` with the following arguments: 
 
